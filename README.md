@@ -1,0 +1,2 @@
+# pySerialEx
+pyserial のサンプルソースです
