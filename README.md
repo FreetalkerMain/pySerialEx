@@ -1,7 +1,7 @@
 # pySerialEx
 pyserial のサンプルソースです  
 ## ファイル紹介
-・cheack.py  
+・check.py  
  ポート確認  
   
 ・checkRx.py  
